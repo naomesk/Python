@@ -1,0 +1,101 @@
+Data Types and Variables 3
+Primitive Types
+Data Structures 
+Custom Data Types
+Functions 4
+Definition, Params and Args
+Recursion
+First-Class and Higher-Order Functions
+Closures and Lambda Functions
+Conditionals and Loops 2
+Conditionals 
+Loops 
+Special Stuff 0
+Debugging 2
+Debuggers 
+Analyzing Logs
+Errors and Exceptions 3
+Errors 
+Exceptions 
+Handling Exceptions
+Files 2
+File Operations 
+Common File Types
+Environment Requirements 8
+OS 
+Programming Language Runtime 
+Required Libraries and Dependencies 
+Database Connections 
+Virtual Environments 
+Containerization 
+Environment Variables 
+Steps in Compilation
+OOP 6
+Classes and Objects 
+Encapsulation 
+Inheritance 
+Polymorphism 
+Abstraction 
+Interfaces
+Memory Management 3
+Stack vs. Heap 
+Garbage Collection vs. Manual Memory Management 
+Memory Leaks
+Nuances 0
+Syntax and Semantics 2
+Syntax 
+Semantics
+Design Patterns 3
+Creational Patterns 
+Structural Patterns 
+Behavioral Patterns
+Algorithms and Efficiency 5
+Big-O Notation 
+Sorting and Searching Algorithms 
+Graph and Tree Traversal 
+Dynamic Programming 
+Greedy Algorithms
+Applications 17
+Web Development 
+Mobile App Development 
+Game Development 
+Data Science and ML 
+System Programming 
+Automation and Scripting 
+AI and NLP 
+Blockchain & Cryptocurrency Development 
+Cybersecurity 
+Cloud Computing 
+VR/AR 
+FinTech 
+Scientific Computing & Research 
+IoT 
+Desktop Application Development 
+Robotics 
+Education and EdTech
+Optimization and Refactoring 3
+Code Refactoring 
+Performance Optimization 
+Readability and Maintainability
+Frameworks and Libraries 4
+Frameworks 
+Package Management 
+Community Practices 
+Common Libraries 
+Concurrency and Parallelism 4
+Multithreading 
+Synchronization 
+Asynchronous Programming 
+Concurrency Models
+Testing 4
+Unit Testing 
+Integration Testing 
+Test-Driven Development 
+Mocking and Stubbing
+Security Practices 3
+Input Validation 
+Authentication & Authorization 
+Encryption
+Deployment and DevOps 2
+Deployment 
+CI/CD
