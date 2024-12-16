@@ -1,2 +1,2 @@
-# ProgLangTemplate
-Template for each programming language to be discovered by me. 
+# Python
+Let's explore Python! 
